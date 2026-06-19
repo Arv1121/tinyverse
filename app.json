@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "87cf9462-93b7-49f3-b8f7-9a3219c57494"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.arv1121.tinyverse-ai"
+    }
+  }
+}
